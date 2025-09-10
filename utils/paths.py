@@ -16,5 +16,6 @@ TEST_DIR = PROJECT_ROOT / "tests"
 UTILS_DIR = PROJECT_ROOT / "utils"
 
 # Data Directories
+DATA_PREPROCESSED_DIR = DATA_DIR / "preprocessed"
 DATA_RAW_DIR = DATA_DIR / "raw"
 DATA_PROCESSED_DIR = DATA_DIR / "processed"
