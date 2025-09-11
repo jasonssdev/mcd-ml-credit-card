@@ -89,7 +89,7 @@ El proyecto utiliza **Conda** para la gestión de dependencias. Para instalar el
 
 ```bash
 conda env create -f environment.yml
-conda activate mcd-ml-credit-card
+conda activate mcd-ml-py312
 ```
 
 ---
